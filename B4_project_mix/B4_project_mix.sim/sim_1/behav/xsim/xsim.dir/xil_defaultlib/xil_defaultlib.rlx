@@ -1,0 +1,13 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/mikik/B4_project_mix/B4_project_mix.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v,1702521414,verilog,,,,tb_top,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/PDM.v,1701753830,verilog,,C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/UART.v,,PDM,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/UART.v,1701753821,verilog,,C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/dfilter.v,,UART,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/binarization.v,1702202051,verilog,,C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/mixer.v,,binarization,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/dfilter.v,1702521008,verilog,,C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/mixer.v,,dfilter,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/mixer.v,1702021166,verilog,,C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/prescaler.v,,mixer,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/prescaler.v,1702205257,verilog,,C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/top.v,,prescaler,,,,,,,,
+C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sources_1/new/top.v,1702520845,verilog,,C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v,,top,,,,,,,,

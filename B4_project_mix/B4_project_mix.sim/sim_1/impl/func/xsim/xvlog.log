@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mikik/B4_project_mix/B4_project_mix.sim/sim_1/impl/func/xsim/tb_top_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dfilter
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top
+WARNING: [VRFC 10-3248] data object 'ref_c1' is already declared [C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v:29]
+WARNING: [VRFC 10-3703] second declaration of 'ref_c1' ignored [C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v:29]
+WARNING: [VRFC 10-3248] data object 'c1' is already declared [C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v:30]
+WARNING: [VRFC 10-3703] second declaration of 'c1' ignored [C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v:30]
+INFO: [VRFC 10-2458] undeclared symbol OEA, assumed default net type wire [C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v:34]
+INFO: [VRFC 10-2458] undeclared symbol OEB, assumed default net type wire [C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v:35]
+INFO: [VRFC 10-2458] undeclared symbol bina1rization_out, assumed default net type wire [C:/Users/mikik/B4_project_mix/B4_project_mix.srcs/sim_1/new/tb_top.v:39]

@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../B4_project_mix.srcs/sources_1/new/UART.v" \
+"../../../../B4_project_mix.srcs/sources_1/new/dfilter.v" \
+"../../../../B4_project_mix.srcs/sources_1/new/mixer.v" \
+"../../../../B4_project_mix.srcs/sources_1/new/prescaler.v" \
+"../../../../B4_project_mix.srcs/sources_1/new/top.v" \
+"../../../../B4_project_mix.srcs/sim_1/new/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
